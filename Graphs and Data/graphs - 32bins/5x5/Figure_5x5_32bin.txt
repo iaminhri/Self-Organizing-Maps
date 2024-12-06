@@ -1,0 +1,25 @@
+5
+inputs/L30fft_32.out
+0.5
+2000
+(53, 32)
+Iteration 0/2000, Quantization Error: 1.5665
+Iteration 100/2000, Quantization Error: 0.8117
+Iteration 200/2000, Quantization Error: 0.8021
+Iteration 300/2000, Quantization Error: 0.7696
+Iteration 400/2000, Quantization Error: 0.7542
+Iteration 500/2000, Quantization Error: 0.7835
+Iteration 600/2000, Quantization Error: 0.7552
+Iteration 700/2000, Quantization Error: 0.7494
+Iteration 800/2000, Quantization Error: 0.7570
+Iteration 900/2000, Quantization Error: 0.7490
+Iteration 1000/2000, Quantization Error: 0.7535
+Iteration 1100/2000, Quantization Error: 0.7449
+Iteration 1200/2000, Quantization Error: 0.7311
+Iteration 1300/2000, Quantization Error: 0.7254
+Iteration 1400/2000, Quantization Error: 0.7048
+Iteration 1500/2000, Quantization Error: 0.7000
+Iteration 1600/2000, Quantization Error: 0.6904
+Iteration 1700/2000, Quantization Error: 0.7089
+Iteration 1800/2000, Quantization Error: 0.7040
+Iteration 1900/2000, Quantization Error: 0.6140
